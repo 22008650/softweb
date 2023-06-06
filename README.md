@@ -725,13 +725,15 @@ style.css
 
 
 ## OUTPUT:
-![Output](./out1.png)
-![Output](./out2(2).png)
-![Output](./out3.png)
-![Output](./out4.png)
+![out1](https://github.com/22008650/softweb/assets/122548204/100b3d83-707e-4136-a144-399bdbe5072e)
+![out2 (2)](https://github.com/22008650/softweb/assets/122548204/81326adf-59ee-4f44-ac05-fd242db892ca)
+![out3](https://github.com/22008650/softweb/assets/122548204/d526c009-9af7-47f9-a1a4-da5ebab9f977)
+![out4](https://github.com/22008650/softweb/assets/122548204/9c773467-7ddc-494e-9104-203daa43a2b6)
+
 
 ## HTML VALIDATOR:
-![Output](./valid.png)
+![valid](https://github.com/22008650/softweb/assets/122548204/72013d43-9e5f-43ff-805f-b0b96ca86b09)
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
